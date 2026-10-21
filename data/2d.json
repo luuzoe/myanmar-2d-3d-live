@@ -1,21 +1,121 @@
 {
- "updated_at": "2026-10-14T08:36:46.190318+06:30",
+ "updated_at": "2026-10-21T16:11:32.751310+06:30",
  "market": {
-  "open": false,
-  "set_now": 1571.74,
-  "set_time": "2026-10-12T16:00:00+06:30"
+  "open": true,
+  "set_now": 1551.43,
+  "set_time": "2026-10-21T15:55:00+06:30"
  },
  "next_draw": {
-  "session": "morning",
-  "at": "2026-10-14T12:01:00+06:30",
-  "label": "မနက်ပိုင်း 12:01"
+  "session": "evening",
+  "at": "2026-10-21T16:30:00+06:30",
+  "label": "ညနေပိုင်း 16:30"
  },
  "today": {
-  "date": "2026-10-14",
-  "morning": null,
-  "evening": null
+  "date": "2026-10-21",
+  "morning": {
+   "set": 1546.45,
+   "number": "64",
+   "time": "12:00",
+   "status": "final"
+  },
+  "evening": {
+   "set": 1551.43,
+   "number": "14",
+   "time": "15:55",
+   "status": "live"
+  }
  },
  "history": [
+  {
+   "date": "2026-10-21",
+   "morning": {
+    "set": 1546.45,
+    "number": "64",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1551.43,
+    "number": "14",
+    "time": "15:55",
+    "status": "live"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "morning": {
+    "set": 1563.77,
+    "number": "37",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1557.13,
+    "number": "71",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "morning": {
+    "set": 1574.93,
+    "number": "49",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1572.86,
+    "number": "28",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "morning": {
+    "set": null,
+    "number": null,
+    "time": null,
+    "status": "holiday"
+   },
+   "evening": {
+    "set": null,
+    "number": null,
+    "time": null,
+    "status": "holiday"
+   }
+  },
+  {
+   "date": "2026-10-15",
+   "morning": {
+    "set": 1566.89,
+    "number": "68",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1569.93,
+    "number": "99",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "morning": {
+    "set": 1570.2,
+    "number": "02",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1577.53,
+    "number": "75",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
   {
    "date": "2026-10-13",
    "morning": {
@@ -40,9 +140,9 @@
     "status": "final"
    },
    "evening": {
-    "set": 1571.74,
-    "number": "17",
-    "time": "16:00",
+    "set": 1570.29,
+    "number": "02",
+    "time": "15:59",
     "status": "final"
    }
   },
