@@ -1,21 +1,96 @@
 {
- "updated_at": "2026-11-09T02:46:35.565655+06:30",
+ "updated_at": "2026-11-15T06:51:35.079841+06:30",
  "market": {
   "open": false,
-  "set_now": 1465.7,
-  "set_time": "2026-11-06T16:00:00+06:30"
+  "set_now": 1504.88,
+  "set_time": "2026-11-13T16:00:00+06:30"
  },
  "next_draw": {
   "session": "morning",
-  "at": "2026-11-09T12:01:00+06:30",
+  "at": "2026-11-16T12:01:00+06:30",
   "label": "မနက်ပိုင်း 12:01"
  },
  "today": {
-  "date": "2026-11-09",
+  "date": "2026-11-15",
   "morning": null,
   "evening": null
  },
  "history": [
+  {
+   "date": "2026-11-13",
+   "morning": {
+    "set": 1509.63,
+    "number": "96",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1504.88,
+    "number": "48",
+    "time": "16:00",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "morning": {
+    "set": 1501.1,
+    "number": "11",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1499.92,
+    "number": "99",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-11-11",
+   "morning": {
+    "set": 1504.82,
+    "number": "48",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1502.74,
+    "number": "27",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "morning": {
+    "set": 1494.41,
+    "number": "44",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1495.37,
+    "number": "53",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "morning": {
+    "set": 1476.26,
+    "number": "62",
+    "time": "12:00",
+    "status": "final"
+   },
+   "evening": {
+    "set": 1472.99,
+    "number": "29",
+    "time": "15:59",
+    "status": "final"
+   }
+  },
   {
    "date": "2026-11-06",
    "morning": {
@@ -25,9 +100,9 @@
     "status": "final"
    },
    "evening": {
-    "set": 1465.7,
-    "number": "57",
-    "time": "16:00",
+    "set": 1465.18,
+    "number": "51",
+    "time": "15:59",
     "status": "final"
    }
   },
